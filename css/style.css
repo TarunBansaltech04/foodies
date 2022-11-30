@@ -76,7 +76,7 @@
 
 #home::before {
   content: "";
-  background: url("../main.jpg") no-repeat center center/cover;
+  background: url("../icons/main.jpg") no-repeat center center/cover;
   background-size: 2000px 1200px;
   position: absolute;
   align-items: center;
